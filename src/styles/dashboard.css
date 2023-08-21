@@ -1,0 +1,76 @@
+.a1{
+    width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"
+};
+.a2{
+    width: 20%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"
+};
+.a3{
+    width: 40%" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"
+};
+
+.a4{
+    width: 60%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"
+};
+.a5{
+
+    width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"
+};
+
+.a6{
+    width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"
+};
+
+.a7{
+    width: 25rem;
+};
+
+.ratingarea{
+
+    display: block;
+     height: 160px; 
+     width: 408px;
+
+};
+
+.toggled {
+
+    overflow: visible;
+    width: 6.5rem!important;
+};
+
+.toggled1 {
+    width: 0!important;
+    overflow: hidden;
+};
+
+
+.collapse {
+    margin: 0 1rem;;
+
+};
+
+
+.card-body {
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1.25rem;
+};
+
+.border-left-primary {
+    border-left: .25rem solid #4e73df!important
+};
+
+#content {
+    flex: 1 0 auto;
+};
+.progress-bar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow: hidden;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    background-color: #4e73df;
+    transition: width .6s ease;
+};

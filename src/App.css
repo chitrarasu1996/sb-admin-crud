@@ -1,0 +1,29 @@
+.hole-edit-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+.hole-create-form{
+    display: flex;
+    flex-direction: column;  
+    justify-content: center; 
+    align-items: center;
+    width: 40%;
+   margin-left: 100px;
+    border: 1px solid black ;
+padding: 1rem;
+}
+
+.edit-form-wrap{
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+width: 30%;
+padding: 1rem;
+border: 1px solid beige;
+
+}
